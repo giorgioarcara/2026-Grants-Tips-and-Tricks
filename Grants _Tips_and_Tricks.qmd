@@ -1,0 +1,75 @@
+---
+title: "Grants - Tips and Tricks"
+author: "Giorgio Arcara"
+format:
+  beamer:
+    theme: Frankfurt
+header-includes:
+  - \titlegraphic{\href{https://creativecommons.org/licenses/by-nc-sa/4.0/}{\includegraphics[scale=0.15]{Figures/CC_BY-NC-SA.png}}\hspace{0.4em}{\tiny CC BY-NC-SA 4.0}}
+incremental: true
+---
+## Preparing Grant is boring
+
+1. Nobody loves writing grant applications
+
+2. There is no shortcut to the boring part
+
+
+## A grant mindset 
+
+1. look actively for grant
+
+2. ask/imitate colleagues
+
+## You need to spend LOT of time in writing the grant
+
+1. If you think it is excellent it will be very good
+  
+2. if you think it is very good it will be sufficient
+
+## Apply to the right grant
+
+1. Assess probability of winning and time required to write the grant, before applying
+
+2. only apply when you have a reasonable probability of winning
+
+
+    
+## Prepare your grant project (coarsely) before 
+   
+1. don’t expect the call to sketch the idea
+   
+## Finds your (potential) partner before
+
+1. you should pre-alert partner and secure them before
+
+## Spend time to study the documents of the application
+
+1. it is not just about the idea! (everyone loves the own ideas)
+
+2. Check who won in previous calls (these are typically publicly available)
+
+3. e.g. Roche, Finalizzata
+
+## Beware of criteria and on how scoring works
+
+3. If you just meet the prerequisites, you will start with a disadvantage
+    
+## Grants win grants
+
+1. Sad but true
+
+2. Sometimes you need to be **Be part of a winning team**, not the winner
+
+3. Start as Co-pi (or partner)
+
+
+## Think about funding agency (reviewers)
+
+1. Don’t just write what you think it is important, write what the funding agency think is important (see all past points).
+
+## Remember that you will have to run the project
+
+1. Plan ahead the feasibility of the project
+
+2. Avoid setting overly ambitious goals “just in case.” or "to impress reviewers"
